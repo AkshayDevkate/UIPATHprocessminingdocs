@@ -38,3 +38,9 @@ Business users can automate simple, everyday tasks for themselves with StudioX. 
         Billing patients and processing claims.
         
       [click here](https://www.uipath.com/solutions/industry/healthcare-automation) to learn more.
+      
+   5. Manufacturing 
+   
+   Manufacturers already implement physical industry robots to assemble, test, and package their products. Despite these robots being able to help streamline the assembly line, the manufacturing industry still struggles to maintain control over managing its back-office and operational processes. Manufacturers must juggle labor and time-intensive processes such as customer communication, procurement, inventorymanagement and payment processing. At the same time, they have to maintain cost reduction and innovative business practices. In order to overcome these pain points, many manufacturing companies are turning to RPA to attain improved agility and more streamlined operations across the value chain, resulting in up to a 20% cost savings across various touch points.
+   
+   [click here](https://www.uipath.com/solutions/industry/manufacturing-automation) to learn more
