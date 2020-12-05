@@ -44,3 +44,46 @@ Business users can automate simple, everyday tasks for themselves with StudioX. 
    Manufacturers already implement physical industry robots to assemble, test, and package their products. Despite these robots being able to help streamline the assembly line, the manufacturing industry still struggles to maintain control over managing its back-office and operational processes. Manufacturers must juggle labor and time-intensive processes such as customer communication, procurement, inventorymanagement and payment processing. At the same time, they have to maintain cost reduction and innovative business practices. In order to overcome these pain points, many manufacturing companies are turning to RPA to attain improved agility and more streamlined operations across the value chain, resulting in up to a 20% cost savings across various touch points.
    
    [click here](https://www.uipath.com/solutions/industry/manufacturing-automation) to learn more
+   
+2. By technology 
+   
+   1. Citrix automation 
+   
+   It’s a fact that many applications today are published via Citrix XenApp. A Citrix server only sends screenshots of the live application that runs on the Citrix server back to the client, so UiPath cannot access the logical elements that make up the user interface. UiPath went to great lengths to make Citrix automation possible: featuring a powerful image recognition engine that is optimized to find images on the screen in under 100 milliseconds. Besides image recognition, the text is sent back to the client via shared clipboard or by using on-screen OCR (optical character recognition). More importantly, despite the inherent difficulties of automating Citrix, you can still use the integrated recorder to achieve great productivity. In fact, it takes the same amount of time to build an integration that involves Citrix, as it takes to automate a regular desktop application.
+   
+   [click here](https://www.uipath.com/solutions/technology/citrix-automation) to learn more.
+   
+   2. Cloud RPA
+   
+   The leading enterprise platform for automation is available the way you want it with UiPath cloud RPA. Get SaaS from UiPath Automation Cloud, install it in your own cloud of choice—or combine them to meet your needs.
+   
+   [click here](https://www.uipath.com/solutions/technology/cloud-rpa) to learn more.
+   
+   3. SAP automation 
+   
+   UiPath technology lets you interweave automation across your SAP and non-SAP systems without the headache of endless development projects or bespoke, inflexible integration.
+You’ll get stable, reliable automations, rapid deployment, and the governance you need. Not to mention access to pre-built components and integrations for dozens of use cases.
+Just what you’d expect from a multi-year SAP PartnerEdge® Silver Partner, and the first RPA company to earn full certifications in both SAP UI and SAP API automation and integration with SAP Solution Manager.
+
+[click here](https://www.uipath.com/solutions/technology/sap-automation) to learn more.
+
+  4. Excel automation 
+  
+  How could something like the venerable software Excel—perhaps the all-time champion in storing, organizing, and manipulating data—become even more efficient and productive than it already is? Excel is easy to use, accessible, and highly popular. Nonetheless, it is not always user-friendly and can at times prove to be very time-consuming and hard to integrate with other applications. For example, the established way to automate tasks in Excel requires training for you to become proficient in Visual Basic for Excel Macros. Today’s working environment is multi-application focused, with data constantly being transferred between applications. Migrating and integrating data into platforms can, therefore, become troublesome, even when you work with applications that can import and export files. This happens because information can get mixed up or lost in the process, forcing you to waste precious time by repeating the steps each time you sync the data.
+  
+  [click here](https://www.uipath.com/solutions/technology/excel-automation) to learn more.
+  
+# Resources 
+
+ 1. Customer stories - [click here](https://www.uipath.com/resources/automation-case-studies)
+ 
+ 2. Blogs - [click here](https://www.uipath.com/blog)
+ 
+ 3. Webinars - [click here](https://www.uipath.com/resources/automation-webinars)
+ 
+ 4. White papers - [click here](https://www.uipath.com/solutions/whitepapers)
+ 
+ 5. Education and certification - [click here](https://www.uipath.com/rpa/academy)
+
+
+   
